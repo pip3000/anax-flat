@@ -98,7 +98,7 @@ return [
             "template" => "default/block",
             "data" => [
                 "class" => "site-footer",
-                "contentRoute" => "block/footer",
+                "contentRoute" => "block/byline",
             ],
             "sort" => 2
         ],
